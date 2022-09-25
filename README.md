@@ -1,11 +1,7 @@
 <h1 align="center">Hi! I'm @gracieze</h1>
-<h3 align="center">A 2nd year CS Student</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gracieze&label=Profile%20views&color=0e75b6&style=flat" alt="gracieze" /> </p>
-
-- 🔭 I’m currently working on **my resume website (coming soon), a tomadachi-style cat game, and a Roblox game**
-
-- ⚡ Fun fact **I have a pet millipede!**
+<h3 align="center">A 2nd year CS Student attempting to make stuff</h3>
+- I’m currently working on **my resume website (coming soon), a tomadachi-style cat game, and a Roblox game**
+- Fun fact **I have a pet millipede!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
