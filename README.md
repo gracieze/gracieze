@@ -13,6 +13,7 @@
 I'm currently a sophomore CS student who's trying to make stuff and learn what's going on. I have multiple personal projects that have been put aside for the time being because of school, but come back later and I'll have some stuff posted!  
  
 <br/>  
+
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
