@@ -7,17 +7,12 @@
 <a href="https://instagram.com/gr4ceanne" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
-
 
 
 ### Welcome to my corner!  
 I'm currently a sophomore CS student who's trying to make stuff and learn what's going on. I have multiple personal projects that have been put aside for the time being because of school, but come back later and I'll have some stuff posted!  
-  
-
+ 
 <br/>  
-
-
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
