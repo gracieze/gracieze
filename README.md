@@ -87,6 +87,3 @@ I'm currently a sophomore CS student who's trying to make stuff and learn what's
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-[![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracieze&show_icons=true&theme=discord_old_blurple)](https://github.com/gracieze/github-readme-stats)
