@@ -10,17 +10,17 @@
 
 
 ### Welcome to my corner!  
-I'm just someone trying to make stuff and learn what's going on. I have multiple personal projects that have been put aside for the time being because of work, but come back later and I'll have some stuff posted!  
+I'm just someone trying to make stuff and see what's going on. I have multiple personal projects that have been put aside for the time being, but come back later and I'll have some stuff posted!  
  
 <br/>  
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on schoolwork! :)  
+- 🔭 I’m currently working on my IT certs :)  
   
 
-- 🧠 I’m currently learning methodology  
+- 🧠 I’m currently learning about computer networks
   
 
 - ❓ Ask me about anything related to obscure internet rabbit holes  
