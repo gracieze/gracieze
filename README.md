@@ -1,10 +1,4 @@
 ## Hi! I'm @gracieze  
-  
-
-<a href="https://github.com/gracieze" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
 
 ### Welcome to my corner!  
 I'm just someone trying to make stuff and see what's going on. I have multiple personal projects that have been put aside for the time being, but come back later and I'll have some stuff posted!  
